@@ -1,2 +1,2 @@
 # G-Hack
-Description 1
+https://r-1i.github.io/G-Hack/
