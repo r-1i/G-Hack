@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=540 height=960 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=1080 height=1920 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/GH_V_0015.loader.js";
+      var loaderUrl = buildUrl + "/GH_V_0016.loader.js";
       var config = {
-        dataUrl: buildUrl + "/GH_V_0015.data",
-        frameworkUrl: buildUrl + "/GH_V_0015.framework.js",
-        codeUrl: buildUrl + "/GH_V_0015.wasm",
+        dataUrl: buildUrl + "/GH_V_0016.data",
+        frameworkUrl: buildUrl + "/GH_V_0016.framework.js",
+        codeUrl: buildUrl + "/GH_V_0016.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "GazpromHackaton",
@@ -103,8 +103,8 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "540px";
-        canvas.style.height = "960px";
+        canvas.style.width = "1080px";
+        canvas.style.height = "1920px";
       }
 
       loadingBar.style.display = "block";
