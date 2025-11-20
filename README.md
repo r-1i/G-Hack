@@ -1,3 +1,5 @@
+[![Play Game](https://img.shields.io/badge/🎮_PLAY_GAME_NOW-4CAF50?style=for-the-badge&logoColor=white)](https://r-1i.github.io/GazpromHackathon-Stories-Builds/)
+
 # 🎮 Истории
 
 > **Карточная игра про финансовую грамотность и инвестиционное страхование жизни**  
@@ -176,7 +178,6 @@ G-Hack/
 
 ## 🔗 Полезные ссылки
 
-- 🎮 **Играть онлайн:** [GitHub Pages](https://r-1i.github.io/G-Hack/)
 - 📚 **Документация:** [Wiki](https://github.com/r-1i/G-Hack/wiki)
 - 🐛 **Сообщить о баге:** [Issues](https://github.com/r-1i/G-Hack/issues)
 - 💬 **Обсуждения:** [Discussions](https://github.com/r-1i/G-Hack/discussions)
